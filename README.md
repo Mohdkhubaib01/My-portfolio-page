@@ -22,7 +22,7 @@ A personal portfolio website built with HTML and CSS to highlight my skills, pro
 
 ## 📸 Screenshots
 
-![Screenshot](blob:https://imgur.com/efd9960b-3f71-4eee-a418-ab58f3d3de75)
+![Screenshot](https://i.postimg.cc/ncmBDmsm/Screenshot-2025-04-13-142640.png)
 
 ---
 
